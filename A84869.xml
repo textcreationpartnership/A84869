@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New propositions sent from his Excellency Sir Thomas Fairfax to the Honourable House of Commons; concerning the preservation and safety of the Kings Majesties realmes and dominions. Together with the Parliaments answer thereunto. Also, the armies new propositions in reference to the whole kingdome, and their further resolution concerning the same. Printed and published, for the speedy dispiercing of the fore-going propositions to each respective county throughout the kingdome of England, and principality of Wales.</title>
+            <author>Marshe, Adam.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84869</idno>
+            <idno type="STC">Wing F208</idno>
+            <idno type="STC">Thomason E399_20</idno>
+            <idno type="STC">ESTC R201721</idno>
+            <idno type="EEBO-CITATION">99862220</idno>
+            <idno type="PROQUEST">99862220</idno>
+            <idno type="VID">160385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New propositions sent from his Excellency Sir Thomas Fairfax to the Honourable House of Commons; concerning the preservation and safety of the Kings Majesties realmes and dominions. Together with the Parliaments answer thereunto. Also, the armies new propositions in reference to the whole kingdome, and their further resolution concerning the same. Printed and published, for the speedy dispiercing of the fore-going propositions to each respective county throughout the kingdome of England, and principality of Wales.</title>
+                  <author>Marshe, Adam.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Adam Marshe, and are to be sold neer the Royall Exchange in Cornhill,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact Fairfax's propositions, etc; a letter, rather, dated and signed at end: Redding 21. July, 1647, A. Marshe [i.e. Adam Marshe].</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "July 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Committee for the Militia of London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160385:1" rendition="simple:additions"/>
+            <p>NEW PROPOSITIONS Sent from his Excellency Sir Thomas Fairfax To the Honourable Houſe of COMMONS; <hi>CONCERNING</hi> The preſervation and ſafety of the Kings Majeſties Realmes and Dominions.</p>
+            <p>Together with the Parliaments Anſwer thereunto.</p>
+            <p>
+               <hi>ALSO,</hi> The Armies new Propoſitions in reference to the whole Kingdome, and their further Reſolution c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncerning the ſame.</p>
+            <p>Printed and publiſhed, for the ſpeedy diſpiercing of the fore-going Propoſitions to each reſpective County throughout the Kingdome of <hi>England,</hi> and Principa<g ref="char:EOLhyphen"/>lity of <hi>Wales.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>Adam Marſhe,</hi> and are to be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d neer the Royale Exchange in <hi>Cornhill,</hi> 164<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <add>July 22</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:160385:2"/>
+            <pb facs="tcp:160385:2"/>
+            <head>A DECLARATION <hi>CONCERNING</hi> The gallant Meſſage and Propoſitions ſent from his Excellency Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax,</hi> to the Honourable Houſe of COMMONS.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving lately received a Copy of the gallant Meſſage and Propoſitinns ſent from his Excellency Sir <hi>Thomas Fairfax</hi> to the Honourable Houſe of Commons; to<g ref="char:EOLhyphen"/>gether with the Anſwer and Votes of the
+<pb facs="tcp:160385:3"/>ſaid Houſe, to his Excellencies Meſſage and Propoſitions; All which being of great con<g ref="char:EOLhyphen"/>cernment to the Kingdome, and worthy of publike view, <hi>I</hi> thought fit to repreſent un<g ref="char:EOLhyphen"/>to you a Copy of the ſaid Papers; to the end, they may be printed, and diſpierced throughout each reſpective County within the Kingdome of England, and Principality of Wales. <hi>viz.</hi>
+            </p>
+            <p n="1">1. His Excellency Sir <hi>Thomas Fairfax</hi> declares, that by reaſon of the great numbers of ſeverall di<g ref="char:EOLhyphen"/>ſtinct and diſ-joynted Forces which (now) lyes diſ<g ref="char:EOLhyphen"/>pierced and ſcattered abroad within this his Maje<g ref="char:EOLhyphen"/>ſties Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> which were ſufficient, together with the aſſiſtance of this Army (being united and well mannaged) both to preſerve the peace of this Kingdome, and give pre<g ref="char:EOLhyphen"/>ſent reliefe to that poor diſtreſſed and bleeding king<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> without putting this Kingdome to the charge of raiſing new Forces at preſent for that ſervice.</p>
+            <p n="2">2. That the high and honourable Court of Parlia<g ref="char:EOLhyphen"/>ment would be pleaſed to put all the Forces under one and the ſame Command, Diſcipline, and equall eſtabliſhment for future pay and maintenance, which being done, it would give much encouragement to ſome of the Forces that may bee ſpared out of all the Forces mentioned from <hi>England,</hi> to goe more cheerfully into <hi>Ireland.</hi>
+            </p>
+            <p n="3">
+               <pb facs="tcp:160385:3"/> 3. That if there were ſome preſent courſe taken to provide for Arreares, for ſuch Forces as might be ſpared for <hi>Ireland,</hi> there might in probability be an effectuall Reliefe ſent over into <hi>Ireland</hi> before this Summer be quite ſpent.</p>
+            <p>All which particulars, were humbly tendered to the ſerious Conſideration of the Honourable Court of Parliament, by <hi>Englands</hi> renowned Generall, His Excellency Sir <hi>Thomas Fairfax,</hi> for the ſafety and preſervation of this his native Countrey, and for the ſpeedy reducing poor bleeding <hi>Ireland,</hi> from the ty<g ref="char:EOLhyphen"/>rannie and oppreſſion of the bloud-thirſty Rebells, who have for many yeares layn waitering in its own bloud, occaſioned by that wicked and Jeſuitical Par<g ref="char:EOLhyphen"/>ty.</p>
+            <p>To which Propoſitions, we have lately received the Anſwer and Votes of the Houſe of Commons, which I ſhall here inſert, to the end they may be all printed together, as alſo the enſuing Papers to be annexed thereunto.</p>
+            <div type="reply_to_propositions">
+               <head>The Anſwer of the Houſe of Commons to the fore-going Prepoſitions.</head>
+               <p>AFter a long and large debate in relation to the reducing of Ireland, and ſetling the peace of this Kingdome, the Houſe of Commons came to this reſult, and voted.</p>
+               <p>I. That all the Land Forces within this Kingdome, and Principality of <hi>Wales;</hi> as alſo the Iſles of <hi>Ierſey</hi> and <hi>Garnſey,</hi> ſhall be under the immediate command
+<pb facs="tcp:160385:4"/>of his Excellency Sir <hi>Thomas Fairfax,</hi> and the care of ſeeing the Forces disbanded which left the Army, was left to the Generall.</p>
+               <p>II. That thoſe Forces which left the Army before, be<g ref="char:EOLhyphen"/>ing deſigned for <hi>Ireland,</hi> and yet remain here ſhal be ſpeedily disbanded.</p>
+            </div>
+         </div>
+         <div type="proposals_for_peace">
+            <head>The proceedings of the late Councell of Warre appointed by his Excellency Sir <hi>Thomas Fairfax,</hi> for the ſpeedy drawing up of certain Propoſitions, to be preſent<g ref="char:EOLhyphen"/>ed to the Parliament of <hi>England</hi> aſſem<g ref="char:EOLhyphen"/>bled at Weſtminſter, for the preſent ſet<g ref="char:EOLhyphen"/>ling of this Kingdome in peace, &amp;c.</head>
+            <p>UPon Fryday laſt, there went about one hundred Officers, <hi>viz.</hi> Colonels, Lieu<g ref="char:EOLhyphen"/>tenant Colonels, Majors, and Captaines, &amp;c, to conſult and debate at a Councell of war, for the drawing up of certain new Propo<g ref="char:EOLhyphen"/>ſitions,
+<pb facs="tcp:160385:4"/>and grand Propoſals, which they con<g ref="char:EOLhyphen"/>ceive neceſſary to inſiſt upon, and to pre<g ref="char:EOLhyphen"/>ſent them ſpeedily to both Houſes of Par<g ref="char:EOLhyphen"/>liament, <hi>viz.</hi>
+            </p>
+            <p n="1">1. It is ſaid, that they much deſire the honour and ſafety of the Kings Majeſty and his Royall Poſterity.</p>
+            <p n="2">2. That there be an effectuall Declaration forth with publiſhed to the Kingdome, a<g ref="char:EOLhyphen"/>gainſt the inviting, bringing, or comming in of any forraign forces, under any pretence whatſoever.</p>
+            <p n="2">2. That the Army may be paid up equall with the defectors thereof, according to the late Vo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of Parliament, And that the army may be forth with put into a conſtant courſe of pay, that they may not be ſo burdenſome and oppreſſive to the Country; for the more ſpeedy performance whereof, We deſire, that the Houſe of Peers would be pleaſed to concur with the Deſires of the Houſe of Commons (ſo often propoſed to them) for reviving of the Committee for the Army, and alſo that the Treaſurers and Commit<g ref="char:EOLhyphen"/>tee of Weavers Hall may be ſpeedily called
+<pb facs="tcp:160385:5"/>to accompt, in what manner, and by what warrant the two hundred and thirty thou<g ref="char:EOLhyphen"/>ſand pounds, lately intruſted in their hands, have been in ſo ſhort a time conſumed.</p>
+            <p n="3">3. That the Militia of the City of Lon<g ref="char:EOLhyphen"/>don, and the Committee of the ſame, may conſiſt of ſuch perſons, and ſpeedily be re<g ref="char:EOLhyphen"/>turned into thoſe hands, who formerly du<g ref="char:EOLhyphen"/>ring the worſt of times, have therein given large teſtimonies of their fidelity to the Parliament and Kingdome, which beſides the reall ſecurity, will be to the Parliament and Kingdom in preventing of dangers, re<g ref="char:EOLhyphen"/>preparing towards a new warre, would con<g ref="char:EOLhyphen"/>duce ſo much to the removing of jealouſies, and give ſuch a ground of confidence to the army, as that we might the better diſpoſe it to larger quarters in ſeverall parts, for the eaſe of the Country. Thus having repreſen<g ref="char:EOLhyphen"/>ted to your view, the perfect Copies of the fore-going papers, I humbly take my leave, and remain.</p>
+            <closer>
+               <signed>Your humble ſervant, <hi>A. MARSHE.</hi>
+               </signed>
+               <dateline>Redding <date>21. July, 1647,</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
